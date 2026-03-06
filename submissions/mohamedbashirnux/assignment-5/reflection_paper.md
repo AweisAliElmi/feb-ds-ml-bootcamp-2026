@@ -1,5 +1,4 @@
 # Reflection Paper: Spam Detection
-## February 22, 2026
 
 ## 1. Implementation Process
 

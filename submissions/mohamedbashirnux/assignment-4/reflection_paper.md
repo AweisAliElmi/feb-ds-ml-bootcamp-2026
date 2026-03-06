@@ -1,5 +1,4 @@
 # Reflection Paper: House Price Prediction
-## February 22, 2026
 
 ## 1. Implementation Process
 
